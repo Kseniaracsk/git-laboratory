@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Compiled and binary files
+*.so
+*.dylib
+*.dll
+*.exe
+*.class
+
+# macOS system files
+.DS_Store
